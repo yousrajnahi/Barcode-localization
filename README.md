@@ -1,6 +1,6 @@
-# Image Segmentation Project
+# Barcode localization Project
 
-Welcome to the Image Segmentation Project. This project provides a Python function for image segmentation using OpenCV. The function takes in an image and returns the same image with a bounding box drawn around the largest contour in the image.
+Welcome to the Barcode localization Project. This project provides a Python function for image segmentation using OpenCV. The function takes in an image and returns the same image with a bounding box drawn around the largest contour in the image.
 
 ## Dependencies
 
