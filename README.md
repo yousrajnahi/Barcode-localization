@@ -11,13 +11,13 @@
 <p>You can use the <code>segment</code> function by importing it into your Python script and calling it on an image like this:</p>
 <pre><code>from image_segmentation import segment
 
-# read in an image
+//read in an image
 image = cv2.imread("image.jpg")
 
-# segment the image
+//segment the image
 segmented_image = segment(image)
 
-# show the segmented image
+//show the segmented image
 cv2.imshow("Segmented Image", segmented_image)
 cv2.waitKey(0)
 </code></pre>
