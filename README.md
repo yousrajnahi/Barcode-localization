@@ -2,6 +2,8 @@
 
 Welcome to the Barcode localization Project. This project provides a Python function for image segmentation using OpenCV. The function takes in an image and returns the same image with a bounding box drawn around the largest contour in the image.
 
+![Capture d’écran 2023-01-06 004035](https://user-images.githubusercontent.com/77071173/210901448-608a5e1e-e481-4753-b274-13749c547365.png)
+
 ## Dependencies
 
 In order to use this function, you will need to have the following packages installed:
